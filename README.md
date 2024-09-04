@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+💬 Ask me about Deep Learning and Chemistry
 <!--
 **nekitmm/nekitmm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
